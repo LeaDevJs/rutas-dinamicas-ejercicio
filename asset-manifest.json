@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/rutas-dinamicas-ejercicio/static/css/main.c78cdd5e.css",
+    "main.js": "/rutas-dinamicas-ejercicio/static/js/main.8d0f5198.js",
+    "static/js/787.f3d7924f.chunk.js": "/rutas-dinamicas-ejercicio/static/js/787.f3d7924f.chunk.js",
+    "static/media/slick.svg": "/rutas-dinamicas-ejercicio/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/rutas-dinamicas-ejercicio/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/rutas-dinamicas-ejercicio/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/rutas-dinamicas-ejercicio/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/rutas-dinamicas-ejercicio/index.html",
+    "main.c78cdd5e.css.map": "/rutas-dinamicas-ejercicio/static/css/main.c78cdd5e.css.map",
+    "main.8d0f5198.js.map": "/rutas-dinamicas-ejercicio/static/js/main.8d0f5198.js.map",
+    "787.f3d7924f.chunk.js.map": "/rutas-dinamicas-ejercicio/static/js/787.f3d7924f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c78cdd5e.css",
+    "static/js/main.8d0f5198.js"
+  ]
+}
